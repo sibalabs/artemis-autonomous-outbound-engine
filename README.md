@@ -24,7 +24,7 @@ Built with a decoupled frontend/backend architecture, Artemis utilizes a Next.js
 
 ## 🔒 Security & Intellectual Property Note
 
-> *Proprietary AI prompts, sales scoring rubrics, and multi-agent system instructions have been abstracted to a secure environment vault (`backend/prompt_vault.py`) for this public repository deployment. See `.env.example` for the public redaction structure.*
+> *Proprietary AI prompts, sales scoring rubrics, and multi-agent system instructions have been abstracted out of source. `backend/prompts.py` loads them at runtime from environment variables. See `backend/.env.example` for the public redaction structure.*
 
 ## 📜 License
 
