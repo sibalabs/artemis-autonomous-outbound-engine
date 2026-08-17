@@ -1,0 +1,12 @@
+# Minimal Supabase project config for local CLI recognition.
+# Expand via `supabase init` / `supabase start` as needed.
+
+project_id = "marketing_multi_agent_demo"
+
+[api]
+enabled = true
+port = 54321
+
+[db]
+port = 54322
+major_version = 15

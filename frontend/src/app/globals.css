@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --artemis-ink: #011d1c;
+  --artemis-ink-elevated: #023433;
+}
+
+@theme inline {
+  --font-sans: var(--font-ui), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-source-serif), ui-serif, Georgia, "Times New Roman",
+    serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --color-artemis-ink: var(--artemis-ink);
+  --color-artemis-ink-elevated: var(--artemis-ink-elevated);
+}
+
+body {
+  background: var(--artemis-ink);
+  color: #f1f5f9; /* slate-100 */
+}
