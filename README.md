@@ -28,5 +28,5 @@ Built with a decoupled frontend/backend architecture, Artemis utilizes a Next.js
 
 ## 📜 License
 
-Copyright (c) 2026 DeAnna B. All Rights Reserved. 
+Copyright (c) 2026 SIBA Labs, LLC. All Rights Reserved. 
 This source code is provided strictly for technical portfolio demonstration, conceptual review, and recruitment evaluation purposes. Unauthorized commercial use or distribution is prohibited.
